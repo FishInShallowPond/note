@@ -1,0 +1,39 @@
+﻿  select_sort.cpp
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\select_sort.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  源.cpp
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(4,26): error C3646: “__attribute__”: 未知重写说明符
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(4,39): error C2059: 语法错误:“(”
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(4,54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(6,27): error C3646: “__attribute__”: 未知重写说明符
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(6,40): error C2059: 语法错误:“(”
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(6,53): error C2143: 语法错误: 缺少“)”(在“(”的前面)
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(6,54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(6,42): error C2086: “int constructor”: 重定义
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(4): message : 参见“constructor”的声明
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(6,58): error C2059: 语法错误:“)”
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(6,59): error C2059: 语法错误:“)”
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(7,27): error C3646: “__attribute__”: 未知重写说明符
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(7,40): error C2059: 语法错误:“(”
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(7,53): error C2143: 语法错误: 缺少“)”(在“(”的前面)
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(7,54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(7,42): error C2086: “int constructor”: 重定义
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(4): message : 参见“constructor”的声明
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(7,58): error C2059: 语法错误:“)”
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(7,59): error C2059: 语法错误:“)”
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(8,27): error C3646: “__attribute__”: 未知重写说明符
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(8,40): error C2059: 语法错误:“(”
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(8,53): error C2143: 语法错误: 缺少“)”(在“(”的前面)
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(8,54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(8,42): error C2086: “int constructor”: 重定义
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(4): message : 参见“constructor”的声明
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(8,58): error C2059: 语法错误:“)”
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(8,59): error C2059: 语法错误:“)”
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(10,13): error C2084: 函数“void before2(void)”已有主体
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(7): message : 参见“before2”的前一个定义
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(15,13): error C2084: 函数“void before1(void)”已有主体
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(8): message : 参见“before1”的前一个定义
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(20,13): error C2084: 函数“void before3(void)”已有主体
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(6): message : 参见“before3”的前一个定义
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(25,13): error C2084: 函数“void before(void)”已有主体
+D:\My Files\笔记\代码随想录\第六章 排序算法代码\源.cpp(4): message : 参见“before”的前一个定义
+  正在生成代码...

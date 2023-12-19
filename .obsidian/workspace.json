@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "ae136aa8f5f7342a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fdae9833e825c07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b617e84ab3ed8d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/操作系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17f84e429e36aaba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/操作系统习题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15978ca642ed9089",
+    "type": "split",
+    "children": [
+      {
+        "id": "04c4e21a72f7baa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d20197afc69bc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "786dd606824239bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "173c951fc91d414d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"aliases\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a484ba67771c70b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "操作系统/操作系统.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.50469589233398
+  },
+  "right": {
+    "id": "cc1670711611d2e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdb1cb91b4856d6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dc666e6f798e51f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "操作系统/操作系统.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d87ac2d56a9e25a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "操作系统/操作系统.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "645d13fc018c41b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8cae495452541dba",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "操作系统/操作系统.md"
+              }
+            }
+          },
+          {
+            "id": "6ca545f7075b5a4b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "011b4d001a534b8b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "3ea32ad64d5a6095",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "86bf07ebb8833f97",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b617e84ab3ed8d36",
+  "lastOpenFiles": [
+    "操作系统/操作系统.assets/image-20231215170856929.png",
+    "操作系统/操作系统.assets/image-20231215170840521.png",
+    "操作系统/操作系统.assets/image-20231215170831950.png",
+    "操作系统/操作系统.assets/image-20231215170809948.png",
+    "操作系统/操作系统.assets/image-20231215170807174.png",
+    "操作系统/操作系统.assets/image-20231215170754287.png",
+    "操作系统/操作系统.assets/image-20231215170732311.png",
+    "操作系统/操作系统.assets/image-20231215170723645.png",
+    "操作系统/操作系统.assets/image-20231215170714464.png",
+    "操作系统/操作系统.assets/image-20231215170600748.png",
+    "操作系统/操作系统习题.assets/image-20231215151613626.png",
+    "操作系统/操作系统习题.md",
+    "操作系统/操作系统.md",
+    "数据库/数据库.md",
+    "数据库.rar",
+    "2023-11-20.md",
+    "Schedule/2023-11-15.md",
+    "Schedule/2023-10-24.md",
+    "未命名.md",
+    "Lessons.md",
+    "Schedule/2023-10-11.md",
+    "Schedule/2023-10-18.md",
+    "Schedule/2023-10-17.md",
+    "Schedule/2023-10-15.md",
+    "Schedule/2023-10-10.md",
+    "Schedule/2023-10-07.md",
+    "Schedule/2023-10-31.md",
+    "网络编程/TCPIP网络编程.md",
+    "算法设计与分析/算法设计（6班）PPT/算法设计与分析_第5章_回溯法2-发布版.pdf",
+    "算法设计与分析/算法设计（6班）PPT/算法设计与分析_第6章_分支限界法-发布版.pdf",
+    "算法设计与分析/算法设计（6班）PPT/算法设计与分析_第4章_贪心算法2-发布版.pdf",
+    "算法设计与分析/算法设计（6班）PPT/算法设计与分析_第5章_回溯法1-发布版.pdf",
+    "算法设计与分析/算法设计（6班）PPT/算法设计与分析_第3章_动态规划4-发布版.pdf",
+    "算法设计与分析/算法设计（6班）PPT/算法设计与分析_第3章_动态规划3-发布版.pdf",
+    "算法设计与分析/算法设计（6班）PPT/算法设计与分析_第4章_贪心算法3-发布版.pdf",
+    "算法设计与分析/算法设计（6班）PPT/算法设计与分析_第4章_贪心算法1-发布版.pdf",
+    "算法设计与分析/算法设计（6班）PPT/算法设计与分析_第3章_动态规划1-发布版.pdf",
+    "算法设计与分析/算法设计与分析.md",
+    "算法基础课/算法基础课.md",
+    "Schedule/2023-10-20  周五周六周天任务.md",
+    "未命名 3.md",
+    "计算机网络复习.md",
+    "硬件实验注意点.md",
+    "C++/C++提高编程 .md",
+    "数据结构/数据结构.md",
+    "Visual Studio使用教程.md",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas"
+  ]
+}
